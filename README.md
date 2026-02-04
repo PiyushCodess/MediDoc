@@ -13,41 +13,41 @@ highly relevant for AI/ML and GenAI roles.
 
 ## 🚀 Key Features
 
--   📄 Upload and process clinical or biomedical PDF documents\
--   ✂️ Intelligent document chunking\
--   🧠 Embedding generation and storage using **FAISS vector database**\
--   🔍 Context-aware question answering using **RAG framework**\
--   🧾 Source-cited answers for reliability and transparency\
+-   📄 Upload and process clinical or biomedical PDF documents
+-   ✂️ Intelligent document chunking
+-   🧠 Embedding generation and storage using **FAISS vector database**
+-   🔍 Context-aware question answering using **RAG framework**
+-   🧾 Source-cited answers for reliability and transparency
 -   📝 Automatic summarization of medical documents
 
 ------------------------------------------------------------------------
 
 ## 🧪 Example Questions
 
--   *What were the side effects of Drug X?*\
--   *Summarize the eligibility criteria of the clinical trial.*\
+-   *What were the side effects of Drug X?*
+-   *Summarize the eligibility criteria of the clinical trial.*
 -   *What was the primary outcome of the study?*
 
 ------------------------------------------------------------------------
 
 ## 🛠 Tech Stack
 
--   **Programming Language:** Python\
--   **LLM Framework:** LangChain\
--   **LLM Provider:** OpenAI\
--   **Vector Database:** FAISS\
--   **Backend API:** FastAPI\
+-   **Programming Language:** Python
+-   **LLM Framework:** LangChain
+-   **LLM Provider:** OpenAI
+-   **Vector Database:** FAISS
+-   **Backend API:** FastAPI
 -   **Frontend:** Streamlit
 
 ------------------------------------------------------------------------
 
 ## 🧠 Architecture Overview
 
-1.  Upload PDF documents\
-2.  Extract and chunk text\
-3.  Generate embeddings using OpenAI\
-4.  Store embeddings in FAISS\
-5.  Retrieve relevant chunks based on user query\
+1.  Upload PDF documents
+2.  Extract and chunk text
+3.  Generate embeddings using OpenAI
+4.  Store embeddings in FAISS
+5.  Retrieve relevant chunks based on user query
 6.  Generate final answer using LLM with citations
 
 ------------------------------------------------------------------------
@@ -83,9 +83,9 @@ streamlit run app.py
 
 ## 📌 Use Cases
 
--   Clinical trial analysis\
--   Biomedical research assistance\
--   Healthcare documentation review\
+-   Clinical trial analysis
+-   Biomedical research assistance
+-   Healthcare documentation review
 -   Medical knowledge extraction
 
 ------------------------------------------------------------------------
@@ -108,5 +108,5 @@ This project is for educational and portfolio purposes.
 
 ## 👤 Author
 
-**Piyush Patrikar**\
+**Piyush Patrikar**
 B.Tech CSE | Aspiring AI Engineer
