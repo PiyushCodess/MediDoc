@@ -1,0 +1,33 @@
+# Production Requirements for MediDoc Q&A
+# Optimized for deployment (no dev dependencies)
+
+# Core Dependencies - RAG Framework
+langchain>=0.1.0
+langchain-openai>=0.0.2
+langchain-community>=0.0.10
+openai>=1.6.1
+
+# Vector Store
+faiss-cpu>=1.13.2
+
+# Document Processing
+pypdf2>=3.0.1
+pdfplumber>=0.10.3
+python-multipart>=0.0.6
+
+# API Framework
+fastapi>=0.108.0
+uvicorn[standard]>=0.25.0
+pydantic>=2.5.3
+pydantic-settings>=2.1.0
+
+# Frontend
+streamlit>=1.29.0
+
+# Utilities
+python-dotenv>=1.0.0
+tiktoken>=0.5.2
+tenacity>=8.2.3
+
+# Logging
+loguru>=0.7.2
