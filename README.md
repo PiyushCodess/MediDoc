@@ -1,4 +1,5 @@
-# 🩺 MediDoc Q&A (RAG-Based Clinical Document Question Answering)
+# 🩺 MediDoc Q&A (RAG-Based Clinical Document Question Answering) 
+https://medidoc-i4qe.onrender.com
 
 MediDoc Q&A is an AI-powered **Retrieval-Augmented Generation (RAG)**
 system that allows doctors, researchers, and healthcare professionals to
